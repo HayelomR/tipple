@@ -1,0 +1,278 @@
+body{
+	background-image: url("../images/img.jpg");
+
+}
+li {
+	margin-left: 10px;
+}
+.bar-list {
+	padding-top: 5px;
+	margin:20px;
+}
+
+
+.bar-search {
+	width: 50%;
+	background: green;
+	font-size: 24px;
+	color:white;
+	margin-left: 100px;
+	font-family: 'Marck Script', cursive;
+}
+#list-head {
+	font-family: 'Marck Script', cursive;
+}
+.advise {
+	color:white;
+}
+.your-drink {
+	margin-right: 5%;
+	color:white;
+	background-color: green;
+	font-family: 'Marck Script', cursive;
+	font-size: 34px;
+	font-weight:bold;
+}
+h6 {
+	margin-top: 10px;
+	margin-right: 5%;
+	font-family: 'Marck Script', cursive;
+	background-color: green;
+	font-size: 40px;
+	color: #DAA520;
+
+
+}
+.what-toDo {
+	color:black;
+}
+.cocktail-created {
+
+	float: left;
+
+}
+.list {
+	clear: both;
+	font-family: 'Marck Script', cursive;
+	color:white;
+
+}
+.drinkName {
+	margin-top: 10px;
+	font-family: 'Marck Script', cursive;
+	text-align: center;
+}
+.drink-suggestion {
+	background-color: green;
+	margin-left: 20px;
+	font-size: 24px;
+	color:white;
+}
+.form-control1 {
+	margin-left: 50px;
+	/* margin-top: 10px; */
+	width: 80%;
+}
+.panel{
+	margin-left: 20px;
+	height: 80%;
+
+}
+
+h3 {
+	color:black;
+}
+.form-control2 {
+	margin-bottom: -10px;
+	width:110%;
+}
+.show-names {
+	margin-left: 100px;
+	color:white;
+	font-family: 'Marck Script', cursive;
+}
+.drink-name {
+	font-family: sans-serif;
+	margin-top: 20px;
+	margin-right: 40%;
+
+	font-size: 24px;
+}
+.show-recipes {
+	margin-left: 100px;
+	border-radius: 100px;
+	color:white;
+	background-color: green;
+
+}
+#display {
+	margin-top: 30%;
+}
+
+h1 {
+	margin-top: 0px;
+	font-size: 28px;
+	color: #DAA520;
+}
+h2 {
+	width: 100%;
+	padding: 10px;
+	margin-left: 80px;
+	font-family: 'Marck Script', cursive;
+	background-color: green;
+	margin-top: 0px;
+	font-size: 34px;
+	color: #DAA520;
+
+}
+.jumbotron{
+	margin-top: 2px;
+}
+.search-section {
+	float: left;
+}
+#create-drink{
+	float: left;
+	margin-left: 300px;
+	font-family: 'Marck Script', cursive;
+	margin-left: 200px;
+}
+.cool-font {
+	clear:both;
+	width: 110%;
+	font-family: 'Marck Script', cursive;
+	background-color: green;
+	color: #DAA520;
+	font-size: 28px;
+	font-weight: bold;
+}
+
+#choose {
+	margin-left: 300px;
+	width: 50%;
+	font-family: 'Marck Script', cursive;
+	background-color: green;
+	margin-top: 30px;
+	font-size: 28px;
+	color: #DAA520;
+	font-weight: bolder;
+}
+
+#title {
+	color:	#DAA520;
+}
+.head {
+	font-family: 'Dancing Script', cursive;
+	font-size: 48px;
+	color: black;
+}
+.form-control {
+	margin-left: 100px;
+	margin-top: 10px;
+	width:90%;
+}
+
+#add-btn{
+	margin-top: 10px;
+	border: 1px solid #21abc7;
+	font-weight: 600;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	border-radius: 100px;
+	min-width: 16em;
+	/*	background-color: #21abc7;*/
+	font-size: 100%;
+	line-height: 2.7;
+	
+}
+#create-btn {
+	margin-left: 50px;
+	margin-bottom: 10px;
+	border: 1px solid #21abc7;
+	font-weight: 600;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	border-radius: 100px;
+	min-width: 16em;
+	/*	background-color: #21abc7;*/
+	font-size: 100%;
+	line-height: 2.7;
+	
+} 
+#cocktails-list{
+	width: 40%;
+	font-size: 24px;
+	margin-right: 40%;
+	background-color: blue;
+	margin-left: 100px;
+}
+
+
+
+#search-name-btn {
+	border: 1px solid #21abc7;
+	font-weight: 600;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	border-radius: 100px;
+	min-width: 16em;
+	/*	background-color: #21abc7;*/
+	font-size: 100%;
+	line-height: 2.7;
+	margin-left: 30%;
+}
+#go-mainpage {
+	margin-right: 20%;
+	float: right;
+	border: 1px solid #21abc7;
+	font-weight: 600;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	border-radius: 100px;
+	min-width: 16em;
+	/* background-color: #21abc7; */
+	font-size: 100%;
+	line-height: 2.7;
+	/* margin-left: 30%; */
+}
+#see-button{
+	border: 1px solid #21abc7;
+	font-weight: 600;
+	font-family: "Open Sans", Helvetica, Arial, sans-serif;
+	border-radius: 100px;
+	min-width: 16em;
+	/*	background-color: #21abc7;*/
+	font-size: 100%;
+	line-height: 2.7;
+	margin-left: 40%;
+}
+/*media query for ipad*/
+@media screen and (max-width: 768px){
+	h1{
+
+	}
+
+}
+
+/*media query for iphone 6 plus*/
+@media screen and (max-width: 414px){
+	.form-control{
+		margin-left:50px;
+
+	}
+	h2 {
+		margin-left: 50px;
+	}
+	#search-name-btn  {
+		margin-left: 40px;
+	}
+
+
+
+}
+
+/*media query for iphone 6 */
+@media screen and (max-width: 375px) {
+	h1 {
+
+
+
+	}
+
+}
